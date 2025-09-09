@@ -2,9 +2,9 @@
 
 ## This project has two modules:
 
-com.automationpanda.example.calc_func contains math functions.
-com.automationpanda.example.calc_class contains a basic Calculator class.
-Test modules are placed under the tests directory. Note that tests is not a Python package and has no "__init__.py" file.
+#### com.automationpanda.example.calc_func contains math functions.
+#### com.automationpanda.example.calc_class contains a basic Calculator class.
+
 
 ## Running Tests
 pytest has many command line options with a powerful discovery mechanism:
